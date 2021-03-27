@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\bin\Debug\netcoreapp3.1\CurrencyConverterDynamic.exe
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\obj\Debug\netcoreapp3.1\CurrencyConverterDynamic.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\obj\Debug\netcoreapp3.1\CurrencyConverterDynamic.Form1.resources
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\obj\Debug\netcoreapp3.1\CurrencyConverterDynamic.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\obj\Debug\netcoreapp3.1\CurrencyConverterDynamic.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\obj\Debug\netcoreapp3.1\CurrencyConverterDynamic.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\bin\Debug\netcoreapp3.1\CurrencyConverterDynamic.deps.json
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\bin\Debug\netcoreapp3.1\CurrencyConverterDynamic.runtimeconfig.json
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\bin\Debug\netcoreapp3.1\CurrencyConverterDynamic.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\bin\Debug\netcoreapp3.1\CurrencyConverterDynamic.dll
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\bin\Debug\netcoreapp3.1\CurrencyConverterDynamic.pdb
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\obj\Debug\netcoreapp3.1\CurrencyConverterDynamic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\obj\Debug\netcoreapp3.1\CurrencyConverterDynamic.csproj.CopyComplete
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\obj\Debug\netcoreapp3.1\CurrencyConverterDynamic.dll
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\obj\Debug\netcoreapp3.1\CurrencyConverterDynamic.pdb
+C:\Users\Asus\source\repos\CurrencyConverterDynamic\CurrencyConverterDynamic\obj\Debug\netcoreapp3.1\CurrencyConverterDynamic.genruntimeconfig.cache
